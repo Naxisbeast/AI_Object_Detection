@@ -1,0 +1,11 @@
+# .mailmap - Author identity mapping for git history
+#
+# This file maps commit author names/emails to canonical identities.
+# Git tools (git log, git shortlog) and GitHub use this file to
+# consolidate contributor attribution.
+#
+# Format: Canonical Name <canonical@email> Commit Name <commit@email>
+#
+# Reassign commits originally authored by the "Tgibeast" account
+# to the main account "Naxisbeast" (Thapelo Wana).
+Thapelo Wana <156661927+Naxisbeast@users.noreply.github.com> Tgibeast <wanakamogelo@gmail.com>
