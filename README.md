@@ -167,19 +167,19 @@ All tasks complete.
 
 The model draws bounding boxes and class labels on the input image:
 
-![Object Detection Result](screenshots/image_detection_result.png)
+![Object Detection Result](results/Asian_market.jpg)
 
 ### Video Tracking
 
 Each object is assigned a persistent tracking ID that is maintained across frames:
 
-![Video Tracking Result](screenshots/video_tracking_result.png)
+![Video Tracking Result](results/Cars_Moving_On_Road_Footage.avi)
 
-### CMD Execution
+### Webcam Execution
 
-Screenshot of the script running in the Windows Command Prompt:
+Screenshot of the script running in the Webcam:
 
-![CMD Execution](screenshots/cmd_execution.png)
+![Webcam Execution](results/0.avi)
 
 ---
 
@@ -187,9 +187,9 @@ Screenshot of the script running in the Windows Command Prompt:
 
 | Task | Screenshot |
 |------|-----------|
-| Image Detection | ![](screenshots/image_detection_result.png) |
-| Video Tracking | ![](screenshots/video_tracking_result.png) |
-| CMD Execution | ![](screenshots/cmd_execution.png) |
+| Image Detection | ![](screenshots/IMAGE_Detection.png) |
+| Video Tracking | ![](screenshots/Video_detection.png) |
+| Webcam Execution | ![](screenshots/Webcam_detection.png) |
 
 ---
 
