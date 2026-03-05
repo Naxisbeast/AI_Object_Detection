@@ -33,8 +33,8 @@ This project implements three core computer-vision tasks using the
 
 | Task | Input | Output |
 |------|-------|--------|
-| **Object Detection** | Static image (`test_image.jpg`) | Annotated image with bounding boxes |
-| **Object Tracking** | Video file (`test_video.mp4`) | Annotated video with persistent object IDs |
+| **Object Detection** | Static image (`Asian market.jpg`) | Annotated image with bounding boxes |
+| **Object Tracking** | Video file (`Cars Moving On Road Footage.mp4`) | Annotated video with persistent object IDs |
 | **Real-Time Detection** | Live webcam feed | Live display window (press **q** to quit) |
 
 The script uses the lightweight `yolov8n` (nano) variant pretrained on the
