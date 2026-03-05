@@ -167,19 +167,19 @@ All tasks complete.
 
 The model draws bounding boxes and class labels on the input image:
 
-![Object Detection Result](screenshots/IMAGE_Detection.png)
+![Object Detection Result](results/Asian_market.jpg)
 
 ### Video Tracking
 
 Each object is assigned a persistent tracking ID that is maintained across frames:
 
-![Video Tracking Result](screenshots/Video_detection.png)
+![Video Tracking Result](results/Cars_Moving_On_Road_Footage.avi)
 
 ### Webcam Execution
 
 Screenshot of the script running in the Webcam:
 
-![Webcam Execution](screenshots/Webcam_detection.png)
+![Webcam Execution](results/0.avi)
 
 ---
 
